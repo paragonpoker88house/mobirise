@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "pokeronlinegame.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -38,11 +38,11 @@
     "noImageResize": ""
   },
   "pages": {
-    "index.html": {
+    "pokeronlinegame.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "POKER ONLINE GAME",
+        "meta_descr": "Paragonpoker adalah Situs Penyedia Texas Holdem Poker online game dengan semakin populernya acara TV game poker.Texas holdem poker online game telah menjadi game poker paling populer di dunia",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
