@@ -782,13 +782,13 @@
           "_global": false,
           "_once": false,
           "_params": {
-            "slides__autoplay": false,
+            "slides__autoplay": true,
             "slides__autoplayInterval": 4000,
             "slides__showBullets": true,
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/baccarat-live-dealer-1134x768.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": false,
@@ -822,7 +822,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/cara-mudah-dan-cepat-daftar-poker88-online-610x395.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": false,
